@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/GustavoNicoletti/school-finance-manager">Featured Project</a>
-  ·
+  |
   <a href="https://github.com/GustavoNicoletti?tab=repositories">Repositories</a>
 </p>
 
@@ -16,9 +16,9 @@
 
 I enjoy turning real operational problems into software that people can actually use: clear workflows, reliable data, well-defined permissions and interfaces that make daily work easier.
 
-My current direction is full-stack development with a strong security mindset. I am especially interested in how secure systems are designed before they are deployed: authentication, authorization, audit trails, validation, least privilege, sensitive data protection and maintainable architecture.
+My current direction is full-stack development with a strong security mindset. I care about how systems are designed before they are deployed: authentication, authorization, audit trails, validation, least privilege, sensitive data protection and maintainable architecture.
 
-I am also studying cybersecurity concepts aligned with areas such as secure software development, identity and access management, risk management, cloud security and security operations.
+I am also studying cybersecurity concepts related to secure software development, identity and access management, risk management, cloud security and security operations.
 
 ## Career Objective
 
@@ -36,7 +36,7 @@ My goal is to grow into roles that connect software engineering and cybersecurit
 
 ### School Finance Manager
 
-A full-stack school management and finance platform designed as a realistic portfolio case study for sensitive operational data.
+A full-stack school management and finance platform built to organize sensitive operational workflows in a school environment.
 
 The project includes:
 
@@ -70,8 +70,8 @@ Repository: [school-finance-manager](https://github.com/GustavoNicoletti/school-
 - protecting authentication flows with secure cookies and JWT expiration;
 - designing audit-friendly systems;
 - writing tests for critical business and security flows;
-- keeping public portfolio projects free from secrets and production data.
+- keeping public repositories free from secrets and production data.
 
 ## Current Focus
 
-I am building a portfolio around real-world systems where reliability, usability and security matter together.
+I am building increasingly complete projects where reliability, usability and security matter together.
